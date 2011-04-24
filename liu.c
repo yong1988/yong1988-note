@@ -9,3 +9,11 @@ void say_hi(void)
 {
 printf("hello\n");
 }
+ctags
+
+/*ctags hello.c
+vim hello.c
+
+Ctr-]: jump to function definition
+
+Ctr-o: to go back*/
